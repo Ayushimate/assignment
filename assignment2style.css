@@ -1,0 +1,140 @@
+*{
+  background-color:#171717;
+}
+#header{
+  color:#FF2E63;
+  font-family: 'WindSong', cursive;
+  text-align:center;
+}
+h2{
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  color:#F8485E;
+  text-align: center;
+}
+p{
+  color:#00C1D4;
+  font-size:20px;
+  text-align: center;
+}
+/* #pdesign{
+  margin-right: 30px;
+} */
+
+table, td, th {
+  border: 1px solid #00C1D4;
+}
+
+table {
+  text-align: center;
+  width: 40%;
+  border-collapse: collapse;
+  margin-left: 430px;
+  color: #64C9CF;
+  table-layout: auto;
+  font-size: 23px;
+ 
+}
+#bt1 {
+  border: 1px solid white;
+  margin-left: 620px; 
+  display: inline-block;
+  text-align: center;
+  font-size: medium;
+  text-decoration:underline;
+  display: inline-block;
+  font-size: 16px;
+  color:#EEEEEE;
+  background-color:black;
+  padding: 15px 32px;
+}
+#bt2 {
+  border: 1px solid white;
+  margin-left: 400spx; 
+  display: inline-block;
+  text-align: center;
+  font-size: medium;
+  text-decoration:underline;
+  display: inline-block;
+  font-size: 16px;
+  color:#EEEEEE;
+  background-color:black;
+  padding: 15px 32px;
+}
+#btblog{
+ border: 1px solid white;
+  margin-left: 710px; 
+  display: inline-block;
+  text-align: center;
+  font-size: medium;
+  text-decoration:underline;
+  display: inline-block;
+  font-size: 16px;
+  color:#EEEEEE;
+  background-color:black;
+  padding: 15px 32px;
+}
+/* ol, ul, dl{
+  font-family: "Courier New","Courier","monospace";
+    font-size: 13px;
+    line-height: 1.6em;
+    text-transform: none;
+    text-decoration: none;
+    font-weight: normal;
+    font-style: normal;
+}
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+} */
+/* body{
+  background-color: #EAEAEA ;
+}
+#header{
+  font-family: 'WindSong', cursive;
+  color:#FFB740;
+  
+  font-size: 30px;
+  text-align: center;
+  
+}
+h2{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  color:#64C9CF;
+}
+h3{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  color:#64C9CF;
+}
+
+table, td, th {
+  border: 1px solid #64C9CF;
+}
+
+table {
+  width: 50%;
+  border-collapse: collapse;
+  color: #64C9CF;
+}
+p{
+  color:#EEEEEE;
+  font-size:20px;
+}
+#pdesign{
+  margin-right: 30px;
+}
+#b11{
+  background-color:transparent;
+  width: 300px;
+  border: 15px solid ;
+  padding: 50px;
+  margin: 20px;
+}
+ */
